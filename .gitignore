@@ -1,9 +1,2 @@
 *.class
 *.log
-*~
-**/target
-**/.idea
-**/.setting
-*.iml
-.DS_Store
-.project
